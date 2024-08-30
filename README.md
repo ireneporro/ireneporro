@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ireneporro
 - 👀 I’m interested in design UX/UI and I would like to learn about coding
-- 🌱 I’m currently learning design UX/UI and project management
+- 🌱 I’m currently working as UX Designer
 - 💞️ I’m looking to collaborate on every project!
 - 📫 How to reach me linkedin.com/in/ireneporro16 
 
