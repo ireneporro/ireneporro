@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ireneporro
-- 👀 I’m interested in design UX/UI and I would like to learn about coding
-- 🌱 I’m currently working as UX Designer
-- 💞️ I’m looking to collaborate on every project!
-- 📫 How to reach me linkedin.com/in/ireneporro16 
+- 👋 Hi, I’m Irene, Senior Product Designer and Code enthusiastic. My life is: dark fantasy and cats.
 
 <!---
 ireneporro/ireneporro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
